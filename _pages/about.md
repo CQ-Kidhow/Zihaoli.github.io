@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student majoring in Transportation Planning and Management at Chang’an University, School of Future Transportation. My supervisor is Professor Jian Sun; I received my bachelor’s degree from Chang’an University, School of Future Transportation.
-My research interests include speech separation, text-to-speech, and speaker-related tasks such as speaker verification, anti-spoofing, and speech anonymization.
+I am currently a PhD student majoring in Transportation Planning and Management at Chang’an University School of Future Transportation. My supervisor is Professor Jian Sun; I received my bachelor’s degree from Chang’an University School of Future Transportation.
+My research interests include carbon emission analysis of shared mobility, application of knowledge graphs in transportation, etc.
 
 A data-driven personal website
 ======
